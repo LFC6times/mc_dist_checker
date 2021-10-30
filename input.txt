@@ -1,0 +1,1170 @@
+[info] Amidst v4.7
+[info] Current system time: 2021-10-27 21:04:22.246
+[info] System.getProperty("os.name") == 'Windows 10'
+[info] System.getProperty("os.version") == '10.0'
+[info] System.getProperty("os.arch") == 'amd64'
+[info] System.getProperty("java.version") == '1.8.0_301'
+[info] System.getProperty("java.vendor") == 'Oracle Corporation'
+[info] System.getProperty("sun.arch.data.model") == '64'
+[info] Not using OpenGL.
+[info] Biome profile activated: Default
+[info] Using look & feel: javax.swing.plaf.metal.MetalLookAndFeel
+[info] using '.minecraft' directory at: 'C:\Users\Addis\AppData\Roaming\.minecraft'
+[info] using biome profiles at: 'biome'
+[info] Starting to download remote version list.
+[New Default Acceleration Threshold: 0
+[info] Scanning for profiles.
+[info] Successfully loaded profile list.
+[info] There are no updates available.
+[info] Successfully loaded remote version list.
+[info] using minecraft launcher profile '1.16.5' with versionId '1.16.5'
+[info] Loading libraries.
+[info] Found library com.mojang:patchy:1.2.3 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/com/mojang/patchy/1.2.3/patchy-1.2.3.jar
+[info] Found library oshi-project:oshi-core:1.1 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar
+[info] Found library net.java.dev.jna:jna:4.4.0 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar
+[info] Found library net.java.dev.jna:platform:3.4.0 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar
+[info] Found library com.ibm.icu:icu4j:66.1 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/com/ibm/icu/icu4j/66.1/icu4j-66.1.jar
+[info] Found library com.mojang:javabridge:1.0.22 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/com/mojang/javabridge/1.0.22/javabridge-1.0.22.jar
+[info] Found library net.sf.jopt-simple:jopt-simple:5.0.3 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar
+[info] Found library io.netty:netty-all:4.1.25.Final at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar
+[info] Found library com.google.guava:guava:21.0 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/com/google/guava/guava/21.0/guava-21.0.jar
+[info] Found library org.apache.commons:commons-lang3:3.5 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar
+[info] Found library commons-io:commons-io:2.5 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar
+[info] Found library commons-codec:commons-codec:1.10 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar
+[info] Found library net.java.jinput:jinput:2.0.5 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar
+[info] Found library net.java.jutils:jutils:1.0.0 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar
+[info] Found library com.mojang:brigadier:1.0.17 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/com/mojang/brigadier/1.0.17/brigadier-1.0.17.jar
+[info] Found library com.mojang:datafixerupper:4.0.26 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/com/mojang/datafixerupper/4.0.26/datafixerupper-4.0.26.jar
+[info] Found library com.google.code.gson:gson:2.8.0 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[info] Found library com.mojang:authlib:2.1.28 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/com/mojang/authlib/2.1.28/authlib-2.1.28.jar
+[info] Found library org.apache.commons:commons-compress:1.8.1 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+[info] Found library org.apache.httpcomponents:httpclient:4.3.3 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar
+[info] Found library commons-logging:commons-logging:1.1.3 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar
+[info] Found library org.apache.httpcomponents:httpcore:4.3.2 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+[info] Found library it.unimi.dsi:fastutil:8.2.1 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/it/unimi/dsi/fastutil/8.2.1/fastutil-8.2.1.jar
+[info] Found library org.apache.logging.log4j:log4j-api:2.8.1 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar
+[info] Found library org.apache.logging.log4j:log4j-core:2.8.1 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar
+[info] Skipping inactive library org.lwjgl:lwjgl:3.2.1
+[info] Found library org.lwjgl:lwjgl:3.2.2 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-windows.jar
+[info] Skipping inactive library org.lwjgl:lwjgl-jemalloc:3.2.1
+[info] Found library org.lwjgl:lwjgl-jemalloc:3.2.2 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2-natives-windows.jar
+[info] Skipping inactive library org.lwjgl:lwjgl-openal:3.2.1
+[info] Found library org.lwjgl:lwjgl-openal:3.2.2 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-windows.jar
+[info] Skipping inactive library org.lwjgl:lwjgl-opengl:3.2.1
+[info] Found library org.lwjgl:lwjgl-opengl:3.2.2 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-windows.jar
+[info] Skipping inactive library org.lwjgl:lwjgl-glfw:3.2.1
+[info] Found library org.lwjgl:lwjgl-glfw:3.2.2 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-windows.jar
+[info] Skipping inactive library org.lwjgl:lwjgl-stb:3.2.1
+[info] Found library org.lwjgl:lwjgl-stb:3.2.2 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-windows.jar
+[info] Skipping inactive library org.lwjgl:lwjgl-tinyfd:3.2.1
+[info] Found library org.lwjgl:lwjgl-tinyfd:3.2.2 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-windows.jar
+[info] Skipping inactive library org.lwjgl:lwjgl:3.2.1
+[info] Found library org.lwjgl:lwjgl:3.2.2 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-windows.jar
+[info] Skipping inactive library org.lwjgl:lwjgl-jemalloc:3.2.1
+[info] Found library org.lwjgl:lwjgl-jemalloc:3.2.2 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2-natives-windows.jar
+[info] Skipping inactive library org.lwjgl:lwjgl-openal:3.2.1
+[info] Found library org.lwjgl:lwjgl-openal:3.2.2 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-windows.jar
+[info] Skipping inactive library org.lwjgl:lwjgl-opengl:3.2.1
+[info] Found library org.lwjgl:lwjgl-opengl:3.2.2 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-windows.jar
+[info] Skipping inactive library org.lwjgl:lwjgl-glfw:3.2.1
+[info] Found library org.lwjgl:lwjgl-glfw:3.2.2 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-windows.jar
+[info] Skipping inactive library org.lwjgl:lwjgl-stb:3.2.1
+[info] Found library org.lwjgl:lwjgl-tinyfd:3.2.2 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-windows.jar
+[info] Skipping inactive library org.lwjgl:lwjgl-tinyfd:3.2.1
+[info] Found library org.lwjgl:lwjgl-stb:3.2.2 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-windows.jar
+[info] Found library com.mojang:text2speech:1.11.3 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/com/mojang/text2speech/1.11.3/text2speech-1.11.3-natives-windows.jar
+[info] Found library com.mojang:text2speech:1.11.3 at file:/C:/Users/Addis/AppData/Roaming/.minecraft/libraries/com/mojang/text2speech/1.11.3/text2speech-1.11.3-natives-windows.jar
+[info] Skipping inactive library ca.weblite:java-objc-bridge:1.0.0
+[info] Skipping inactive library ca.weblite:java-objc-bridge:1.0.0
+[info] Finished loading libraries.
+[info] Recognised Minecraft Version 1.16.4 with the magic string "bsacyg$acykapcanqaaxungn$bacu[Jacqabwwacyawdvxafcvzcsw".
+[info] Reading 1.16.5.jar
+[info] Jar load complete.
+[info] Searching for classes...
+[info] Found class Bootstrap: vm
+[info] Missing class SharedConstants
+[info] Found class ResourceKey: vk
+[info] Found class RegistryKey: vj
+[info] Found class Registry: gm
+[info] Found class RegistryAccess: gn
+[info] Found class WorldGenSettings: chw
+[info] Found class DimensionSettings: che
+[info] Found class NoiseBiomeProvider: bsx$a
+[info] Found class BiomeZoomer: bti
+[info] Found class Biome: bsv
+[info] Found class Util: x
+[info] Class search complete.
+[info] Loading classes...
+[info] unable to find the real class method chw.a(java.util.Properties) -> WorldGenSettings.create
+[info] Classes loaded.
+[info] Minecraft load complete.
+[info] Creating world with seed '1337859598847912475' and type 'Default'
+[info] Using the following generator options: 
+[info] Supported dimensions for world: Nether, Overworld
+[info] Not writing to seed history file, because it does not exist: history.txt
+[info] increasing fragment cache size from 0 to 1024
+[info] fragment cache size increased to 1024
+-488 -280
+1368 -1288
+-2200 -360
+56 -1672
+1912 -1816
+1880 -2472
+3160 1576
+-4296 792
+-4280 3752
+-4040 3720
+-5464 3768
+5784 -1480
+[info] increasing fragment cache size from 1024 to 2048
+-2024 -5352
+[info] fragment cache size increased to 2048
+4952 5688
+6840 5896
+7480 6264
+8520 -2696
+8424 -2504
+-856 -7096
+5400 -7016
+6200 -7096
+-8936 600
+-8968 6488
+-8856 5992
+-9368 5496
+9944 5768
+-10488 88
+10392 -5608
+10456 -4472
+10328 7880
+-10936 -2360
+11000 -7608
+10872 -1352
+11112 -2360
+-12104 -8536
+-12120 -3496
+-12088 2296
+11416 -8584
+11432 -5768
+-10728 8968
+7880 8856
+11848 -2712
+-9928 9512
+[info] increasing fragment cache size from 2048 to 3072
+[info] fragment cache size increased to 3072
+7992 9272
+-13112 -856
+12920 8776
+-9016 -9992
+1224 -10104
+-13672 3768
+-12952 9848
+-10664 10040
+7224 9976
+-12456 10472
+-14312 5288
+13592 -3368
+13592 8808
+-14664 -9656
+13656 9528
+-14568 4936
+14152 4312
+14440 -2216
+-12664 10808
+5848 11032
+10008 11304
+-888 -11480
+-1512 -11736
+14888 -3432
+10248 11800
+[info] increasing fragment cache size from 3072 to 4096
+[info] fragment cache size increased to 4096
+-16072 4648
+15432 -5432
+15560 24
+-10424 -12040
+7000 -12168
+-9016 12616
+16136 4824
+16696 -12168
+16472 -8952
+16456 7384
+16664 11560
+-4520 -12664
+-920 -12728
+6888 -12472
+16440 -12520
+-17240 5880
+8872 -13160
+16712 -13000
+[info] increasing fragment cache size from 4096 to 5120
+[info] fragment cache size increased to 5120
+-3544 -13624
+200 -13512
+-264 -13608
+-4360 -13544
+9496 -13480
+-8472 12824
+-4872 12856
+-18360 -9576
+16968 -12136
+17064 6680
+17624 -3384
+-12776 13608
+8920 13432
+-18936 -11208
+-18648 -7112
+18184 -2808
+-19256 -12632
+-5992 -14280
+4440 -14312
+-15208 14200
+-14184 14088
+-3400 14024
+8760 14024
+10024 13960
+600 -14840
+7880 -14696
+248 14408
+-19688 1304
+-19720 4616
+-20136 -11752
+-20168 2104
+18616 -14632
+18552 -1736
+18440 6216
+18776 10936
+18952 -1288
+19176 1304
+19144 792
+19000 8264
+-15320 -15160
+-12504 -15144
+-4056 -15064
+7848 -15080
+-20984 -10024
+-20744 40
+-19912 15224
+19720 12344
+-19928 15560
+-20184 15416
+8040 15656
+[info] increasing fragment cache size from 5120 to 6144
+[info] fragment cache size increased to 6144
+-19960 -15768
+8728 -15848
+9416 -15752
+10520 -15784
+11528 -15848
+9416 -16232
+13992 -16200
+-21848 3256
+20840 -5256
+20792 8344
+21032 -6632
+-6392 16216
+7400 16200
+10568 16104
+13848 16232
+-22280 -3992
+-22008 -16520
+-3336 -16728
+-2888 -16520
+-1880 -16824
+-23000 -13096
+-22904 1288
+-22792 7224
+-13144 16632
+21720 -12712
+21848 -696
+[info] increasing fragment cache size from 6144 to 7168
+[info] fragment cache size increased to 7168
+-22808 -17128
+-2408 -17064
+8264 -17144
+-18152 16952
+-5432 17144
+1704 17160
+11080 17208
+12504 17160
+-10984 17784
+4184 17640
+4904 17720
+11784 17736
+-23256 1256
+-23512 -2776
+-23544 9064
+-23528 12920
+-24040 -9032
+-23848 184
+-23832 -2696
+-24040 8440
+22376 13576
+22776 -1400
+22536 15640
+-19640 -17640
+-2408 -17688
+4680 -17784
+8040 -17912
+-24504 -9128
+-24360 1368
+23192 -1352
+23160 -424
+23304 6248
+23400 16664
+-17656 -18344
+23880 -16136
+23784 -2344
+23624 6456
+-20696 18008
+-5032 18120
+-6536 17928
+24 17960
+10824 17944
+12952 18232
+[info] increasing fragment cache size from 7168 to 8192
+[info] fragment cache size increased to 8192
+-9432 -18648
+-4424 -18776
+11816 -18664
+-23000 18808
+-6616 18792
+13080 18520
+16696 18680
+-20168 18952
+-5960 19032
+-888 19240
+21848 19224
+-25544 -15512
+-25544 840
+-26008 -15256
+24312 -3208
+24168 -344
+24824 -12040
+24712 -13272
+24824 -7400
+24728 536
+24680 9464
+24824 12360
+-19944 -19272
+-11016 -19384
+-8440 -19256
+4456 -19224
+-26472 -16360
+-26872 -14760
+-27016 -13960
+-26760 -6968
+-26760 4392
+-26808 11864
+-14328 -19592
+-11224 -19736
+-11400 -19672
+2328 -19656
+25144 -10904
+25208 8264
+-22184 19736
+-15672 19560
+-15352 19512
+-1336 19512
+7432 19544
+-27480 -13464
+-27560 3432
+-27608 4712
+25624 -1496
+25736 4200
+25944 8728
+25864 15080
+25688 19560
+[info] increasing fragment cache size from 8192 to 9216
+[info] fragment cache size increased to 9216
+[info] increasing fragment cache size from 9216 to 10240
+[info] fragment cache size increased to 10240
+-25832 -20104
+-18808 -20344
+-2232 -20472
+9576 -20360
+-18200 -20856
+-18728 -20680
+-3768 -20856
+-2520 -20856
+-4440 -20696
+3192 -20632
+16968 -20872
+17544 -20792
+10776 -20792
+-27464 20296
+-3736 20120
+-18680 20616
+3896 20568
+21352 20552
+-27816 16040
+-28296 12632
+26360 -7048
+26472 9400
+-22376 -21336
+-4520 -21224
+17528 -21352
+18088 -21240
+-29128 -8472
+27512 -19416
+27416 17000
+27864 -19784
+27864 -4840
+-14648 21016
+-15512 21048
+-10568 21256
+-29656 14488
+-29352 19752
+-11592 -21688
+-13240 -21896
+-30200 2056
+-29992 13672
+-30136 19592
+[info] increasing fragment cache size from 10240 to 11264
+[info] fragment cache size increased to 11264
+[info] increasing fragment cache size from 11264 to 12288
+[info] fragment cache size increased to 12288
+-17848 -22376
+4376 -22248
+22376 -22520
+19736 -22456
+-5560 21640
+-11736 21880
+18712 21544
+25448 21816
+-29544 22184
+-11912 22088
+-10584 22152
+-5800 22056
+-26568 22712
+-23304 22616
+3368 22872
+-30664 -12536
+-30616 -7144
+-30472 -3992
+-30344 14392
+-31176 -9512
+-31128 -7160
+-31048 -3816
+28344 -18856
+28200 17416
+28488 22632
+28376 22152
+28248 20696
+28808 -5416
+29272 -8584
+29208 13464
+29384 14600
+29384 12920
+-18776 -22840
+2392 23192
+10376 23176
+23592 23400
+-31736 -18904
+-31480 -9464
+-31512 11848
+-31736 21560
+29784 -8024
+29992 -3304
+29912 -824
+29784 20760
+-24264 -23336
+-24952 -23544
+-20232 -23320
+-32056 -9592
+-31912 11832
+-32472 -19400
+-32680 17528
+-29528 23912
+-27544 23816
+23832 23736
+28952 23608
+29272 23832
+[info] increasing fragment cache size from 12288 to 13312
+[info] fragment cache size increased to 13312
+-24568 -23736
+[info] increasing fragment cache size from 13312 to 14336
+[info] fragment cache size increased to 14336
+-6952 -23768
+-28968 -24280
+-19688 -24264
+21560 -24440
+4440 24392
+12600 24216
+13000 24296
+13656 24136
+16904 24104
+-26472 24664
+4952 24856
+17528 24664
+27976 24760
+-33064 -21672
+-33128 -16792
+-33000 -17080
+-32968 -13128
+-32952 3944
+-33528 -17672
+-33688 -5352
+-33960 1688
+-34024 7960
+31096 -22904
+31016 19464
+31544 40
+31384 16088
+31944 -19256
+31816 14584
+21080 -25064
+22264 -24760
+22760 -24760
+-26520 25096
+-12504 25384
+-11928 25112
+-2872 25352
+13512 25208
+13944 25400
+16440 25224
+17928 25464
+25880 25384
+-34728 -16344
+-34760 23592
+32616 -16120
+32504 -8040
+32360 -5928
+20712 -25304
+-34952 -7144
+-35192 -6616
+-34952 18744
+32984 -11608
+32792 13320
+-35480 -6584
+-35480 744
+-35608 9976
+8936 -25816
+[info] increasing fragment cache size from 14336 to 15360
+[info] fragment cache size increased to 15360
+[info] increasing fragment cache size from 15360 to 16384
+[info] fragment cache size increased to 16384
+-184 -26536
+5256 -26440
+-13544 -27080
+-7112 -26840
+-30136 25912
+-17800 25960
+-8696 25784
+-3800 25880
+5864 25720
+17208 25896
+24104 25784
+-22840 26472
+-15784 26344
+-3288 26264
+24600 26424
+-35976 -3512
+-36168 10296
+-36840 10504
+-36856 10856
+-36728 18088
+-36648 22568
+-37192 -19720
+-37016 -2904
+-37112 8856
+-37368 22728
+33320 16488
+34168 -2920
+33944 -3336
+34088 -1304
+34056 8024
+34024 14568
+34344 -26584
+34664 -15320
+34648 9880
+-18696 -27480
+22216 -27624
+-33528 26808
+-21832 26984
+-17880 26792
+25912 26856
+-35272 27416
+-34152 27192
+-17176 27416
+-16776 27416
+-19432 27480
+-11016 27304
+17576 27480
+27240 27160
+29544 27368
+-37688 -952
+35112 -21912
+35016 -18936
+35096 -3816
+35176 -2728
+34936 -904
+35352 -19208
+35528 -14824
+35672 -5384
+35480 -2792
+[info] increasing fragment cache size from 16384 to 17408
+[info] fragment cache size increased to 17408
+[info] increasing fragment cache size from 17408 to 18432
+[info] fragment cache size increased to 18432
+35576 27160
+[info] increasing fragment cache size from 18432 to 19456
+-38040 -24520
+[info] fragment cache size increased to 19456
+-38040 -1208
+-38168 16568
+35944 -14776
+36024 -5496
+-31544 -28152
+34344 -28136
+-35016 27800
+-31720 27656
+-24760 27832
+-9064 27784
+3384 27688
+9736 27800
+12968 27800
+21240 27672
+-38808 20248
+-29160 -28456
+-9912 -28344
+-8440 -28568
+-6968 -28664
+-2984 -28472
+24 -28632
+600 -28408
+21752 -28472
+34392 -28584
+-27896 -28824
+-18712 -29096
+-20104 -28808
+-20968 28184
+72 28456
+13592 28168
+11480 28328
+30360 28248
+33960 28280
+-2952 29048
+30584 28856
+-2952 29304
+3736 29560
+2136 29560
+11544 29288
+-39160 -16040
+-39400 -6008
+-39208 9560
+-39304 20024
+-39384 22232
+-39224 22840
+-39784 -18824
+-39832 -8952
+-39800 -1688
+-39784 4712
+-40376 -7384
+-40216 -6280
+-40344 -7128
+-40072 -1160
+36536 -25224
+36408 -19416
+36584 -17320
+37384 -28872
+37400 -28616
+37656 168
+37960 -26456
+37896 -17128
+38152 -14328
+38024 584
+-28008 -29416
+-20232 -29640
+-18824 -29320
+4984 -29608
+8888 -29688
+8504 -29496
+10936 -29480
+37560 -29496
+-18632 -30056
+-8920 -30104
+-40648 -23320
+-40792 -4792
+-40648 12056
+-40728 12520
+-41400 15896
+38408 -24840
+38616 -1016
+38616 23656
+38456 23128
+38536 24200
+1768 29864
+520 29832
+4168 29880
+6216 29704
+5720 29800
+14344 29960
+-41944 -4392
+-41912 7720
+-41624 16488
+39016 19240
+39288 22744
+-31224 -30360
+-20440 -30456
+-17080 -30488
+-10024 -30616
+-9512 -30344
+16616 -30408
+26376 -30472
+34584 -30536
+152 30520
+17000 30232
+-42312 -26408
+-42472 -6920
+-42312 -5016
+-42136 15160
+-42200 14200
+[info] increasing fragment cache size from 19456 to 20480
+[info] fragment cache size increased to 20480
+[info] increasing fragment cache size from 20480 to 21504
+[info] fragment cache size increased to 21504
+-42152 -31064
+[info] increasing fragment cache size from 21504 to 22528
+-26360 -31144
+[info] fragment cache size increased to 22528
+-18696 -31000
+-8424 -31016
+[info] increasing fragment cache size from 22528 to 23552
+[info] fragment cache size increased to 23552
+16472 -30888
+26392 -31144
+25784 -31224
+34664 -31000
+-38696 -31736
+-18904 -31640
+23128 -31688
+31960 -31480
+-19800 -32248
+-19368 -32152
+15448 -32248
+34632 -31896
+-16280 30888
+-13784 30872
+568 30968
+12856 31080
+17944 30952
+35960 30920
+-8504 31384
+-42696 -19720
+-42904 -10984
+-42728 2872
+-43224 -19096
+-43400 -19816
+-43144 -7160
+-43304 29704
+-43512 30568
+-43944 7768
+-43656 31432
+40040 -26472
+40584 -25864
+40472 8712
+40472 13880
+40520 19480
+40552 31016
+41288 184
+41048 1320
+41064 6456
+41096 21160
+41016 29432
+41816 -21912
+41688 -10200
+41512 21608
+41624 23880
+-26408 -32504
+-21416 -32632
+15544 -32552
+-24552 31768
+-14296 32056
+12840 31768
+12392 31816
+28360 31848
+34920 31832
+36056 31768
+-28872 32552
+-28344 32328
+12664 32344
+18440 32392
+28936 32552
+-44504 -19368
+-44200 -8904
+-44200 -8536
+-44296 -9512
+-44216 -3496
+-44408 18200
+-44520 30248
+-44984 -29960
+-44840 -21496
+-44680 -1800
+-45032 31032
+42088 -29688
+42136 -21704
+42360 -16200
+42120 20280
+-44712 -33000
+-43768 -33080
+-44360 -33048
+-21704 -33160
+15928 -33112
+19464 -33144
+23752 -32968
+27928 -33208
+-45336 -30072
+-45368 -22200
+-45336 -10168
+-45272 -2968
+-45288 5640
+-45352 7928
+-45272 14424
+-45208 20520
+42536 -16008
+42728 -16872
+42664 -12056
+42760 -9144
+42712 10280
+42648 6856
+42792 29256
+-35480 33112
+10504 33032
+33864 32824
+-45704 -22008
+-45880 -16264
+-45784 -8920
+43384 1176
+43256 18968
+-35304 33448
+-33928 33320
+-23944 33592
+-9688 33608
+-6008 33608
+13672 33592
+[info] increasing fragment cache size from 23552 to 24576
+[info] fragment cache size increased to 24576
+[info] increasing fragment cache size from 24576 to 25600
+[info] fragment cache size increased to 25600
+[info] increasing fragment cache size from 25600 to 26624
+[info] fragment cache size increased to 26624
+-20808 -33432
+[info] increasing fragment cache size from 26624 to 27648
+[info] fragment cache size increased to 27648
+5816 -33752
+6152 -33784
+23096 -33592
+-31144 -34024
+-24456 -34152
+-5800 -33992
+776 -34008
+-23400 -34456
+27496 -34456
+31480 -34648
+31864 -34760
+-46008 33800
+-30712 34040
+-15016 34104
+13656 33800
+16216 33944
+41512 33912
+-42696 34408
+-29448 34648
+-9144 34344
+-3464 34600
+27400 34616
+-46504 -13624
+-46568 -8632
+-47080 -32088
+-47048 -29544
+-47064 -27464
+-47032 -24408
+-46792 -22392
+-46776 -10088
+-46728 -8600
+-46856 10552
+-47240 -29640
+-47320 -25000
+-47320 -10728
+-47352 -1432
+-47336 9800
+-48104 12104
+-48120 16600
+43720 12888
+43880 18984
+43816 16120
+44136 -32424
+44248 -25768
+44104 -2424
+44088 1384
+44344 2424
+44200 4104
+44136 26488
+44040 25288
+44760 -29976
+44664 -21752
+44696 -2040
+44664 19720
+45256 -22344
+45352 -11640
+45080 -10392
+45256 5432
+45112 8856
+-47512 -35320
+-40408 -35144
+-31400 -35032
+-18632 -35080
+-10232 -35064
+28456 -35080
+33480 -35288
+40712 -35000
+-39416 -35752
+-40232 -35672
+-32568 -35784
+-25880 -35560
+-25352 -35560
+-15624 -35672
+22792 -35720
+39192 -35832
+-41304 34936
+-29576 34840
+-30024 35112
+-10712 35112
+15400 35192
+15096 34840
+30472 34856
+-48360 -25784
+-48616 20040
+-48520 35032
+-49096 -11928
+-49080 9784
+-48888 18104
+-48776 18664
+45896 -12040
+45624 -13656
+45624 -9880
+45624 -4360
+45720 13576
+45816 15672
+46280 -35480
+46376 -12536
+46264 -3816
+-17160 -36024
+-16760 -36200
+-14840 -36216
+31880 -36312
+43752 -36344
+-42984 35496
+14120 35528
+19784 35400
+44248 35656
+-49624 -10424
+-49656 17496
+46776 -33096
+46616 -30072
+46936 -15720
+46888 -17224
+46664 -3368
+-49880 -30088
+-50120 4696
+-49992 4152
+-50120 11000
+-47448 35960
+-30024 35912
+-22696 35992
+-952 36136
+9368 35976
+47144 -15528
+47208 31960
+47432 32552
+47288 35672
+[info] increasing fragment cache size from 27648 to 28672
+[info] fragment cache size increased to 28672
+[info] increasing fragment cache size from 28672 to 29696
+[info] fragment cache size increased to 29696
+-40296 -36616
+-17848 -36664
+-6840 -36536
+-3816 -36808
+18056 -36664
+-17032 -37368
+-4856 -37352
+-3928 -37368
+-3736 -37528
+-5496 -37848
+17752 -37864
+19096 -37608
+35912 -37672
+45944 -37880
+-48392 36616
+-47080 36712
+-47240 36696
+-216 36632
+13016 36520
+33560 36536
+43192 36360
+44248 36728
+-44824 36904
+-17640 37064
+[info] increasing fragment cache size from 29696 to 30720
+[info] fragment cache size increased to 30720
+[info] increasing fragment cache size from 30720 to 31744
+[info] fragment cache size increased to 31744
+41848 37000
+42120 37160
+-11080 37560
+-5768 37624
+34376 37592
+38552 37608
+-50536 -37224
+-50664 -13160
+-50472 -4840
+-50504 4280
+-50680 5688
+-50392 3912
+-50424 37672
+-51096 -33080
+-50824 -29656
+-50968 -12120
+-51176 -6376
+-50840 3336
+-50824 5128
+-51000 7464
+-51560 -33736
+-51528 -28920
+-51496 -18840
+-51480 -16632
+-51544 -16280
+-51384 4984
+-51592 2888
+-51464 25192
+-51528 32872
+-51880 -31704
+-51896 -28440
+-52216 -25944
+-51880 -18280
+-51928 -4888
+-51896 32088
+-51880 32920
+-51960 36424
+47688 -33016
+47880 20760
+[info] increasing fragment cache size from 31744 to 32768
+[info] fragment cache size increased to 32768
+48792 -3736
+48872 3864
+48808 20200
+-25736 -38312
+-6312 -38392
+8296 -38392
+33288 -38312
+39288 -38104
+-32504 -38776
+-24440 -38904
+-22184 -38808
+7464 -38664
+29384 -38856
+38616 -38760
+39064 -38904
+44824 -38664
+-35064 38040
+-18152 38120
+-12136 38056
+-8520 38056
+26440 38200
+42584 38024
+-34184 38744
+-27624 38728
+-11720 38440
+35528 38600
+-52568 -25976
+-52520 -25368
+-52376 -17288
+-52696 -6328
+-52600 16952
+-52504 32904
+-53112 -10056
+-53048 4664
+-53736 -35528
+-53480 -28088
+-53752 -17816
+-53464 -6872
+-53512 -10600
+-53384 -5320
+-53480 -5080
+-53480 5640
+49752 -38680
+-53560 35864
+50040 -28872
+49800 -11512
+49912 5496
+50008 9496
+50040 17416
+49736 31080
+-41464 -39256
+-40856 -39384
+-36232 -39384
+-22248 -39112
+-408 -39048
+4280 -39128
+33288 -39320
+39576 -39048
+-54120 -32088
+-54120 -1896
+-54152 15032
+-53912 35624
+50328 -31928
+50184 -13208
+50520 8040
+50264 12808
+50200 17464
+50264 19000
+50888 -15768
+50952 -8968
+50920 -5000
+50808 6888
+50936 16024
+50920 31064
+-48120 38952
+-29144 39064
+-10392 39144
+11832 39128
+21128 38952
+20520 39064
+24136 39240
+47848 39256
+48184 39080
+-25256 -39656
+-21640 -39848
+-6008 -39912
+-7528 -39800
+12056 -39784
+12376 -39816
+24792 -39560
+47992 -39688
+-54728 -22280
+-54568 -19080
+-54664 -18104
+-54712 -7096
+-54616 16392
+-54472 35000
+-54728 37144
+51400 -33560
+51496 -25592
+51496 -3864
+51240 15960
+51400 26920
+51576 31768
+51480 38120
+[info] increasing fragment cache size from 32768 to 33792
+[info] fragment cache size increased to 33792
+[info] increasing fragment cache size from 33792 to 34816
+[info] fragment cache size increased to 34816
+[info] increasing fragment cache size from 34816 to 35840
+[info] fragment cache size increased to 35840
+-52072 -40344
+[info] increasing fragment cache size from 35840 to 36864
+[info] fragment cache size increased to 36864
+[info] increasing fragment cache size from 36864 to 37888
+[crash] Amidst has encounted an uncaught exception on the thread Thread[AWT-EventQueue-0,6,main]
+[crash] java.lang.OutOfMemoryError: Java heap space
