@@ -20,25 +20,13 @@ for(var i = data.length - 1; i >= 0; i--) {
         data[i] = new coords(data[i][0], data[i][1]);
     }
 }
-/*
-data = data.filter(function(item) {
-    return (item[0] != "[" || item[0] != "N");
-});
-*/
+
 function distanceFormula(a, b) {
     return Math.sqrt(Math.pow(Math.abs(a.x - b.x), 2) + Math.pow(Math.abs(a.y - b.y), 2));
 }
 
 function midPoint(inputArr) {
     var outx = 0, outy = 0;
-    /*
-    inputArr.forEach(element => {
-        outx += element.x;
-    });
-    inputArr.forEach(element => {
-        outy += element.y;
-    });
-    */
     for(var i = 0; i < inputArr.length; i++) {
         console.log(inputArr[i]);
         outx += inputArr[i].x;
@@ -49,13 +37,6 @@ function midPoint(inputArr) {
 
 function midPointDistances(inputArr) {
     var midpoint = midPoint(inputArr);
-    /*
-    inputArr.forEach(element => {
-        if(distanceFormula(element, midpoint) > 128) {
-            return false;
-        }
-    });
-    */
     for(var i = 0; i < inputArr.length; i++) {
         if(distanceFormula(inputArr[i], midpoint)) {
             return false;
@@ -64,26 +45,46 @@ function midPointDistances(inputArr) {
     return true;
 }
 
-var doubleHuts = [], tripleHuts = [];
-
-for(var i = 0; i < data.length - 1; i++) {
-    for(var j = i + 1; j < data.length; j++) {
-        if(distanceFormula(data[i], data[j]) <= 256) {
-            doubleHuts.push([data[i],data[j]]);
-        }
-    }
-}
-
-for(var i = 0; i < data.length - 2; i++) {
-    for(var j = i + 1; j < data.length - 1; j++) {
-        for(var k = j + 1; k < data.length; k++) {
-            if(midPointDistances(data[i], data[j], data[k])) {
-                tripleHuts.push([data[i], data[j], data[k]]);
+function doubleHutFinder() {
+    var doubleHuts = [];
+    for(var i = 0; i < data.length - 1; i++) {
+        for(var j = i + 1; j < data.length; j++) {
+            if(distanceFormula(data[i], data[j]) <= 256) {
+                doubleHuts.push([data[i],data[j]]);
             }
         }
     }
+    return doubleHuts;
 }
 
+var doubles = doubleHutFinder();
+
+function optimizedTripleHuts(doubleArray) {
+    var potentialTriples = [];
+    var realTriples = [];
+    for(var i = 0; i < doubleArray.length - 1; i++) {
+        for(var j = i + 1; j < doubleArray.length; j++) {
+            if(doubleArray[i][0] == doubleArray[j][0] || doubleArray[i][0] == doubleArray[j][1]) {
+                potentialTriples.push([doubleArray[i], doubleArray[j]]);
+            }
+        }
+    }
+    potentialTriples.forEach(element => {
+        var temp = [];
+        element.forEach(element1 => {
+            if(!temp.includes(element1)) {
+                temp.push(element1);
+            }
+        });
+        if(midPointDistances(temp)) {
+            realTriples.push(temp);
+        }
+    });
+    return realTriples;
+}
+
+var triples = optimizedTripleHuts(doubles);
+
 console.log(data);
-console.log(doubleHuts);
-console.log(tripleHuts);
+console.log(doubles);
+console.log(triples);
