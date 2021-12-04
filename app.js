@@ -28,7 +28,7 @@ function distanceFormula(a, b) {
 function midPoint(inputArr) {
     var outx = 0, outy = 0;
     for(var i = 0; i < inputArr.length; i++) {
-        console.log(inputArr[i]);
+        // console.log(inputArr[i]);
         outx += inputArr[i].x;
         outy += inputArr[i].y;
     }
@@ -49,7 +49,8 @@ function doubleHutFinder() {
     var doubleHuts = [];
     for(var i = 0; i < data.length - 1; i++) {
         for(var j = i + 1; j < data.length; j++) {
-            if(distanceFormula(data[i], data[j]) <= 256) {
+            if(distanceFormula(data[i], data[j]) <= 256 && ((data[i].x != data[j].x) && (data[i].y != data[j].y))) {
+		// console.log(data[i] == data[j]);
                 doubleHuts.push([data[i],data[j]]);
             }
         }
@@ -85,6 +86,7 @@ function optimizedTripleHuts(doubleArray) {
 
 var triples = optimizedTripleHuts(doubles);
 
-console.log(data);
+// console.log(data);
+console.log("The info");
 console.log(doubles);
 console.log(triples);
