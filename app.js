@@ -7,7 +7,7 @@ class coords {
     }
 }
 
-var data = fs.readFileSync('input.txt', 'utf-8');
+var data = fs.readFileSync('input1.txt', 'utf-8');
 data = data.split('\r\n');
 
 for(var i = data.length - 1; i >= 0; i--) {
@@ -59,6 +59,15 @@ function doubleHutFinder() {
 }
 
 var doubles = doubleHutFinder();
+
+for(var i = doubles.length - 1; i > 0; i--) {
+    if(doubles[i][0].x == doubles[i - 1][0].x && doubles[i][0].y == doubles[i - 1][0].y && doubles[i][1].x == doubles[i - 1][1].x && doubles[i][1].y == doubles[i - 1][1].y) {
+        console.log(doubles[i]);
+        console.log(doubles[i - 1]);
+        console.log(doubles[i].x == doubles[i - 1].x)
+        doubles.splice(i, 1)
+    }
+}
 
 function optimizedTripleHuts(doubleArray) {
     var potentialTriples = [];
