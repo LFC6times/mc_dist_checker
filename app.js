@@ -74,11 +74,12 @@ function optimizedTripleHuts(doubleArray) {
     var realTriples = [];
     for(var i = 0; i < doubleArray.length - 1; i++) {
         for(var j = i + 1; j < doubleArray.length; j++) {
-            if(doubleArray[i][0] == doubleArray[j][0] || doubleArray[i][0] == doubleArray[j][1]) {
-                potentialTriples.push([doubleArray[i], doubleArray[j]]);
+            if((doubleArray[i][0].x == doubleArray[j][0].x && doubleArray[i][0].y == doubleArray[j][0].y) || (doubleArray[i][0].x == doubleArray[j][1].x && doubleArray[i][0].y == doubleArray[j][1].y) || (doubleArray[i][1].x == doubleArray[j][0].x && doubleArray[i][1].y == doubleArray[j][0].y) || (doubleArray[i][1].x == doubleArray[j][1].x && doubleArray[i][1].y == doubleArray[j][1].y)) {
+                potentialTriples.push([doubleArray[i][0], doubleArray[i][1], doubleArray[j][0], doubleArray[j][1]]);
             }
         }
     }
+    /*
     potentialTriples.forEach(element => {
         var temp = [];
         element.forEach(element1 => {
@@ -90,7 +91,8 @@ function optimizedTripleHuts(doubleArray) {
             realTriples.push(temp);
         }
     });
-    return realTriples;
+    */
+    return potentialTriples;
 }
 
 var triples = optimizedTripleHuts(doubles);
